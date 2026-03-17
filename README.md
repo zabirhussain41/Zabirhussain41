@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I am Zabir Hussain
 
-<!--
-**zabirhussain41/Zabirhussain41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Java · Spring Boot · REST APIs
 
-Here are some ideas to get you started:
+Currently building: ecommerce-backend-springboot
+Looking for: Java Developer roles in Mumbai
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+Java · Spring Boot · Hibernate · MySQL · React · JavaScript
+
+## Projects
+- ecommerce-backend — REST APIs for auth, products, cart, orders
+- smart-content-management — Java CMS with full CRUD
+- queue-token-system — React token queue management app
+
+## Connect
+- LinkedIn: linkedin.com/in/zabir-hussain-046a26280
+- Email: zabirh41@gmail.com
