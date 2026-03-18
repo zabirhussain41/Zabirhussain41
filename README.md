@@ -2,11 +2,10 @@ Hi, I am Zabir Hussain
 
 Backend Developer | Java · Spring Boot · REST APIs
 
-Currently building: ecommerce-backend-springboot
 Looking for: Java Developer roles in Mumbai
 
 ## Tech stack
-Java · Spring Boot · Hibernate · MySQL · React · JavaScript
+Java · Spring Boot · Hibernate · MySQL 
 
 ## Projects
 - ecommerce-backend — REST APIs for auth, products, cart, orders
